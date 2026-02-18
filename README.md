@@ -6,7 +6,7 @@
 
 <!-- Badges Section -->
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org)
-[![License](https://img.shields.io/badge/License-green?logo=License)](https://opensource.org)
+[![License](https://img.shields.io/badge/License-License-green?logo=License)](https://opensource.org)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com)
