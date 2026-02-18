@@ -2,13 +2,14 @@
 
 # 🌍 Mini Translator AI 🤖
 
-# 🌍 Mini Translator
+# اسم المشروع الخاص بك
 
-<p align="center">
-<a href="https://www.python.org">[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org)</a>
-<a href="https://scikit-learn.org">[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org)</a>
-<a href="https://www.kaggle.com">[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com)</a>
-</p>
+<!-- Badges Section -->
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org)
+[![License](https://img.shields.io)](https://opensource.org)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com)
 
 > **Mini Translator** هو أداة ذكية وخفيفة الوزن مصممة لترجمة النصوص فورياً بين أكثر من 100 لغة، مع دعم كامل لمعالجة البيانات الضخمة وتنسيقات **Kaggle** المخصصة لمشاريع الـ **ML**.
 
