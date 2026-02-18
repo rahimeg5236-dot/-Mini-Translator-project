@@ -2,7 +2,6 @@
 
 # 🌍 Mini Translator AI 🤖
 
-# اسم المشروع الخاص بك
 <div align="center">
     
 <!-- Badges Section -->
