@@ -1,10 +1,9 @@
 # Mini-Translator-project
 # 🌍 Mini Translator
 
-![Python](https://img.shields.io)
 ![MIT License](https://img.shields.io)
 ![Status](https://img.shields.io)
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org) [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org) [![MIT License](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org) [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com)
 
 > A sleek, minimal, and high-speed text translator powered by Google Translate API.
 
