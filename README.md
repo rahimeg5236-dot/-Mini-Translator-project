@@ -17,3 +17,5 @@
 First, ensure you have the `googletrans` library installed:
 ```bash
 pip install googletrans==4.0.0-rc1
+python mini_translator.py
+
