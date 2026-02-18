@@ -3,7 +3,8 @@
 # 🌍 Mini Translator AI 🤖
 
 # اسم المشروع الخاص بك
-
+<div align="center">
+    
 <!-- Badges Section -->
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-License-green?logo=License)](https://opensource.org)
@@ -11,6 +12,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com)
 
+</div>
 > **Mini Translator** هو أداة ذكية وخفيفة الوزن مصممة لترجمة النصوص فورياً بين أكثر من 100 لغة، مع دعم كامل لمعالجة البيانات الضخمة وتنسيقات **Kaggle** المخصصة لمشاريع الـ **ML**.
 
 ### ✨ Features
