@@ -1,8 +1,8 @@
-# Mini-Translator-project 🌍 Mini Translator AI 🤖
-
+# Mini-Translator-project 
+# 🌍 Mini Translator AI 🤖
 <div align="center">
     
- 🌍 Mini Translator AI 🤖
+
 
 <!-- Badges Section -->
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org)
