@@ -1,4 +1,4 @@
-# Mini-Translator-project
+# Mini-Translator-project 🌍 Mini Translator AI 🤖
 
 <div align="center">
     
